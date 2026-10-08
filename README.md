@@ -2,7 +2,7 @@
 
 [**Stáhnout PLU Asistent pro Android**](https://github.com/AsardGm/plu-asistent-downloads/releases/latest/download/PLU-Asistent-Android.apk)
 
-Aktuální verze: **0.1.3 (4)**. Vyžaduje Android 7 nebo novější.
+Aktuální verze: **0.1.4 (5)**. Vyžaduje Android 7 nebo novější.
 
 ## Instalace a použití
 
@@ -12,7 +12,13 @@ Aktuální verze: **0.1.3 (4)**. Vyžaduje Android 7 nebo novější.
 4. V EasyPLU otevři cvičení s artiklem a klepni na **Spustit**.
 5. Pokud pomocné vyhledávání požádá o přihlášení, dokonči ho, klepni na **Zpět do cvičení** a znovu na **Spustit**.
 
-Po spuštění může asistent pokračovat na pozadí i při zamknutí telefonu. Pokud Android požádá, povol oznámení. V oznámení **PLU Asistent běží** uvidíš aktuální stav cvičení, počet odpovědí a tlačítko **Zastavit**. Po ukončení zůstane výsledek nebo důvod zastavení. Pokud telefon oznámení na zamčené obrazovce skrývá, klepni v appce na zvonek a zapni jejich zobrazení na zamčené obrazovce. Zastavit ho můžeš i v aplikaci. Běh končí po 100 odpovědích, při chybě nebo nejpozději po 30 minutách; zavření appky ze seznamu posledních aplikací ho také ukončí.
+Po spuštění může asistent pokračovat při přepnutí do jiné aplikace. Spolehlivý běh při zamknutí telefonu zatím není potvrzený; při čekání na vyhledávání se může zastavit. Pokud Android požádá, povol oznámení. V oznámení **PLU Asistent běží** uvidíš aktuální stav cvičení, počet odpovědí a tlačítko **Zastavit**. Po ukončení zůstane výsledek nebo důvod zastavení. Pokud telefon oznámení na zamčené obrazovce skrývá, pod zvonkem otevři **Nastavení oznámení** a zapni jejich zobrazení na zamčené obrazovce. Zastavit ho můžeš i v aplikaci. Běh končí po 100 odpovědích, při chybě nebo nejpozději po 30 minutách; zavření appky ze seznamu posledních aplikací ho také ukončí.
+
+## Další aktualizace
+
+Od verze 0.1.4 se při otevření aplikace automaticky kontroluje novější vydání, nejvýše jednou za šest hodin. APK se stáhne přes Wi-Fi. Jakmile je ověřená, oznámení **Aktualizace připravena** nabídne instalaci. Klepni na oznámení a potvrď **Instalovat**; Android může jednou požádat o povolení instalace z PLU Asistenta. Před instalací se vyplňování zastaví.
+
+V menu pod zvonkem můžeš také klepnout na **Zkontrolovat aktualizace** nebo **Instalovat staženou aktualizaci**. Starší aplikaci 0.1.3 je potřeba tentokrát aktualizovat ručně přes odkaz nahoře.
 
 PLU Asistent hledá PLU podle názvu artiklu, zadává číslice postupně na klávesnici cvičení a stiskne tlačítko PLU. Tato aplikace není produktem společnosti Lidl. Přihlášení a ověřovací SMS probíhají běžně přes MyLidl.
 
