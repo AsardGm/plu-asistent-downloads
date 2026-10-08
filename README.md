@@ -2,7 +2,7 @@
 
 [**Stáhnout PLU Asistent pro Android**](https://github.com/AsardGm/plu-asistent-downloads/releases/latest/download/PLU-Asistent-Android.apk)
 
-Aktuální verze: **0.1.4 (5)**. Vyžaduje Android 7 nebo novější.
+Aktuální verze: **0.1.5 (6)**. Vyžaduje Android 7 nebo novější.
 
 ## Instalace a použití
 
